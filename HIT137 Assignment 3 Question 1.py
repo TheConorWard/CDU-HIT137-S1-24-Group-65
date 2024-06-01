@@ -9,9 +9,9 @@
 # Button Frame: A frame to hold all buttons, organized in a grid layout.
 # Buttons: Number buttons (0-9) and operation buttons (+, -, *, /, =, C).
 # Button Click Handling:
-# â¢	âCâ clears the display.
-# â¢	â=â evaluates the expression in the display using eval().
-# â¢	Numbers and operations are appended to the current text in the display.
+# 'C' clears the display.
+# '=' evaluates the expression in the display using eval().
+# Numbers and operations are appended to the current text in the display.
 # Grid Configuration: Ensures buttons expand to fill available space.
 
 import tkinter as tk
